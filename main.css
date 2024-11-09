@@ -8,4 +8,7 @@
   .skill-item {
     @apply border border-[#F44335] px-3 py-1 rounded-full text-lg;
   }
+  .course-btn {
+    @apply bg-[#00FF84] text-[#2D3142] py-2 md:px-4 px-[2px] rounded-full shadow-lg ;
+  }
 }
