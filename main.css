@@ -14,4 +14,10 @@
   .btn-crs{
     @apply border border-[#F44335] px-3 py-1 rounded-full text-sm hover:bg-[#F44335] cursor-pointer hover:text-white transition hover:scale-105 hover:translate-y-1;
   }
+  .course-d {
+    @apply bg-white rounded-lg p-6 w-full md:w-2/3 shadow-lg dark:bg-gray-700;
+  }
+  .course-p {
+    @apply text-gray-600 mb-6 dark:text-blue-200;
+  }
 }
